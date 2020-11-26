@@ -1,4 +1,4 @@
-@import 'src/sass/base/variables';
+@import 'base/variables.scss';
 * 
 {
   font-family: 'Museo Sans Cyrl', sans-serif;
@@ -6,6 +6,6 @@
 .container {
   max-width: 950px;
   margin: 0 auto;
-  background-color:blue;
-}
-@import 'src/sass/blocks/_promo';
+  }
+@import 'blocks/promo';
+@import 'blocks/header';
