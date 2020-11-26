@@ -1,0 +1,31 @@
+.advantage {
+    padding: 69px 0 80px 0;
+    &__icon {
+        margin-top: 65px;
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+
+    }
+    &__icons {
+        width: 247px;
+    }
+    &__header{
+        font-size: 18px;
+        font-weight: bold;
+        color: #0d0d0d;
+        margin-top: 38px;
+    }
+    &__subheader{
+        font-size: 14px;
+        font-weight: 300;
+        color: #0d0d0d;
+        margin-top: 25px;
+        a{
+            color: #ff0000
+        }
+    }
+
+    
+
+}
